@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sicherheitsmodell für Agentenarbeit</title>
+  <desc id="desc">Vier Schutzebenen für KI-Agenten: Rechte, Sandbox, Freigabe und Protokoll.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fbfbf8}.outer{fill:#fff;stroke:#202124;stroke-width:3}.layer1{fill:#eef7ee}.layer2{fill:#eaf3ff}.layer3{fill:#fff3df}.layer4{fill:#f3eefb}.txt{font-family:Arial,Helvetica,sans-serif;fill:#151515}.h{font-size:32px;font-weight:700}.p{font-size:23px}.s{font-size:19px}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="txt h" x="70" y="70">Sicherheitsmodell: vier Schutzebenen</text>
+  <rect class="outer" x="120" y="130" width="960" height="470" rx="18"/>
+  <rect class="layer1" x="170" y="180" width="860" height="86" rx="12"/>
+  <rect class="layer2" x="220" y="280" width="760" height="86" rx="12"/>
+  <rect class="layer3" x="270" y="380" width="660" height="86" rx="12"/>
+  <rect class="layer4" x="320" y="480" width="560" height="86" rx="12"/>
+  <text class="txt p" x="205" y="233">1. Minimale Rechte: nur benoetigte Dateien und Werkzeuge</text>
+  <text class="txt p" x="255" y="333">2. Sandbox: begrenzte Umgebung für riskante Arbeit</text>
+  <text class="txt p" x="305" y="433">3. Freigabe: Mensch entscheidet bei externer Wirkung</text>
+  <text class="txt p" x="355" y="533">4. Protokoll: nachvollziehbar, was passiert ist</text>
+  <text class="txt s" x="70" y="650">Je mehr Wirkung eine Agentenhandlung hat, desto enger muessen Rechte, Umgebung, Freigaben und Logs gesetzt werden.</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Agenten-Delegationskreislauf</title>
+  <desc id="desc">Vom Auftrag über Planung, Werkzeugnutzung, Ergebnis und menschliche Freigabe zur Verbesserung der Routine.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7f8fb}.box{fill:#fff;stroke:#263238;stroke-width:2.5}.accent{fill:#e8f4ff;stroke:#1167b1;stroke-width:2.5}.warn{fill:#fff4e5;stroke:#a86200;stroke-width:2.5}.txt{font-family:Arial,Helvetica,sans-serif;fill:#17212b}.h{font-size:30px;font-weight:700}.p{font-size:22px}.small{font-size:18px}.arrow{stroke:#263238;stroke-width:3.5;fill:none;marker-end:url(#arrow)}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,4 L0,8 Z" fill="#263238"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1200" height="720"/>
+  <text class="txt h" x="70" y="70">Agenten-Delegationskreislauf</text>
+  <rect class="box" x="70" y="125" width="260" height="120" rx="10"/>
+  <text class="txt h" x="100" y="170">1. Auftrag</text>
+  <text class="txt p" x="100" y="205">Ziel, Kontext, Grenzen</text>
+  <rect class="accent" x="470" y="125" width="260" height="120" rx="10"/>
+  <text class="txt h" x="500" y="170">2. Planung</text>
+  <text class="txt p" x="500" y="205">Schritte und Werkzeuge</text>
+  <rect class="box" x="870" y="125" width="260" height="120" rx="10"/>
+  <text class="txt h" x="900" y="170">3. Ausfuehrung</text>
+  <text class="txt p" x="900" y="205">Dateien, Suche, APIs</text>
+  <rect class="box" x="870" y="410" width="260" height="120" rx="10"/>
+  <text class="txt h" x="900" y="455">4. Ergebnis</text>
+  <text class="txt p" x="900" y="490">Entwurf oder Briefing</text>
+  <rect class="warn" x="470" y="410" width="260" height="120" rx="10"/>
+  <text class="txt h" x="500" y="455">5. Freigabe</text>
+  <text class="txt p" x="500" y="490">Mensch prueft und entscheidet</text>
+  <rect class="box" x="70" y="410" width="260" height="120" rx="10"/>
+  <text class="txt h" x="100" y="455">6. Routine</text>
+  <text class="txt p" x="100" y="490">Verbessern und wiederholen</text>
+  <path class="arrow" d="M330 185 H455"/>
+  <path class="arrow" d="M730 185 H855"/>
+  <path class="arrow" d="M1000 245 V395"/>
+  <path class="arrow" d="M870 470 H745"/>
+  <path class="arrow" d="M470 470 H345"/>
+  <path class="arrow" d="M200 410 V280 C200 260 215 245 235 245 H250"/>
+  <text class="txt small" x="70" y="635">Merksatz: Der Agent erledigt Vorarbeit. Die Entscheidung bleibt beim Menschen.</text>
+</svg>
