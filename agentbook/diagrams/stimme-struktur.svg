@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+  <title id="title">Struktur übernimmt der Agent, die Stimme bleibt bei Ihnen</title>
+  <desc id="desc">Zwei Spalten: links was ein Agent im Content automatisieren kann, rechts was der Beitrag des Menschen bleibt.</desc>
+  <rect width="1400" height="760" fill="#f7f7f3"/>
+  <text x="80" y="84" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#202124">Struktur delegieren, Stimme schützen</text>
+  <text x="80" y="126" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#4b5563">Ein gutes Redaktionssystem trennt, was automatisierbar ist, von dem, was nur Sie liefern.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="70" y="180" width="610" height="520" rx="18" fill="#eff6ff" stroke="#1d4ed8" stroke-width="3"/>
+    <text x="105" y="236" font-size="28" font-weight="700" fill="#1e3a8a">Struktur · der Agent übernimmt</text>
+    <g font-size="22" fill="#1e40af">
+      <text x="105" y="296">• Ideen sammeln und ordnen</text>
+      <text x="105" y="344">• Themen-Recherchebriefing</text>
+      <text x="105" y="392">• Gliederung und Argumentgerüst</text>
+      <text x="105" y="440">• Erstentwurf nach Stilprofil</text>
+      <text x="105" y="488">• Varianten kurzer Formate</text>
+      <text x="105" y="536">• Glätten, Übergänge, Wiederholungen</text>
+      <text x="105" y="584">• Formale Prüfung und Formatierung</text>
+      <text x="105" y="632">• Überschriften zitierfähig machen (GEO)</text>
+    </g>
+
+    <rect x="720" y="180" width="610" height="520" rx="18" fill="#ecfdf5" stroke="#047857" stroke-width="3"/>
+    <text x="755" y="236" font-size="28" font-weight="700" fill="#064e3b">Stimme · Ihr Beitrag bleibt</text>
+    <g font-size="22" fill="#065f46">
+      <text x="755" y="296">• Haltung und Perspektive</text>
+      <text x="755" y="344">• Erfahrung aus echten Projekten</text>
+      <text x="755" y="392">• Konkrete, spezifische Beispiele</text>
+      <text x="755" y="440">• Fachliche Meinung zu Strittigem</text>
+      <text x="755" y="488">• Eigene Zahlen und Fallstudien</text>
+      <text x="755" y="536">• Faktenprüfung und Urteil</text>
+      <text x="755" y="584">• Die finale Freigabe</text>
+      <text x="755" y="632">• Das, was Vertrauen erzeugt (E-E-A-T)</text>
+    </g>
+  </g>
+</svg>
